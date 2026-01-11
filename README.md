@@ -111,7 +111,3 @@ https://github.com/MohamedMagdy1998/Front-End-Project.git
 - 📧 Email: **mohamed9898magdy@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-magdy1998
 - 📍 Location: **Cairo, Egypt**
-
----
-
-⭐ **If you like my work, feel free to star my repositories!**
